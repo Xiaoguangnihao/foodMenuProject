@@ -1,0 +1,36 @@
+[
+  {
+    "id": "7622ecbd-9441-4a6c-85f6-1baf9900cc92",
+    "name": "11",
+    "category": "家常菜",
+    "prep_time": 0,
+    "ingredients": [
+      "11"
+    ],
+    "steps": [
+      "11"
+    ],
+    "tags": [
+      "11"
+    ],
+    "image_url": "/uploads/af658ef4-ea21-432a-8ed0-ecc208201ca9.webp",
+    "created_at": "2026-02-03 16:44:14",
+    "updated_at": "2026-02-03 16:44:14"
+  },
+  {
+    "id": "19f5d957-03fb-4eb8-b259-cc0bbb3b5c2e",
+    "name": "cc",
+    "category": "家常菜",
+    "prep_time": 0,
+    "ingredients": [
+      "cc"
+    ],
+    "steps": [
+      "cc"
+    ],
+    "tags": [],
+    "image_url": "/uploads/11cbfc3a-7dc7-4aef-82e4-1066eed40b2c.jpg",
+    "created_at": "2026-02-03 16:50:57",
+    "updated_at": "2026-02-03 16:50:57"
+  }
+]

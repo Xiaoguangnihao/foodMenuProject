@@ -1,0 +1,35 @@
+[
+  {
+    "id": "81d77ef3-dadf-4014-b394-b9dfa059c194",
+    "customer_name": "家庭聚餐",
+    "table_number": "阜阳",
+    "people_count": 2,
+    "dining_time": "2026-02-06 18:41",
+    "status": "pending",
+    "notes": null,
+    "items": [
+      {
+        "id": "b2265ae8-aa6e-4eb7-aade-400622be339e",
+        "recipe_id": "7622ecbd-9441-4a6c-85f6-1baf9900cc92",
+        "recipe_name": "11",
+        "quantity": 1,
+        "notes": null,
+        "price": 0,
+        "added_at": "2026-02-03 18:41:41"
+      },
+      {
+        "id": "033944f8-d6b6-4fba-b74b-2eb11bdf2bbb",
+        "recipe_id": "19f5d957-03fb-4eb8-b259-cc0bbb3b5c2e",
+        "recipe_name": "cc",
+        "quantity": 1,
+        "notes": null,
+        "price": 0,
+        "added_at": "2026-02-03 18:42:39"
+      }
+    ],
+    "total_price": 0,
+    "total_items": 2,
+    "created_at": "2026-02-03 18:41:25",
+    "updated_at": "2026-02-03 18:42:39"
+  }
+]
