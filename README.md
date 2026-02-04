@@ -126,3 +126,6 @@ javascript
 const API_BASE_URL = 'http://localhost:8000'; // 后端API地址
 const API_TIMEOUT = 30000; // 请求超时时间
 
+![img.png](img%2Fimg.png)
+![img_1.png](img%2Fimg_1.png)
+![img_2.png](img%2Fimg_2.png)
